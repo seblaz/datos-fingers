@@ -1,2 +1,4 @@
-events.csv
+datasets/
 .ipynb_checkpoints
+*.tex
+*.png
